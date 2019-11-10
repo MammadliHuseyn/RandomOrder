@@ -1,0 +1,9 @@
+C:\Users\Husey\source\repos\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\Husey\source\repos\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\Husey\source\repos\MainForm\MainForm\obj\Debug\MainForm.PresentationDemo.resources
+C:\Users\Husey\source\repos\MainForm\MainForm\bin\Debug\Presentation Mixer.exe.config
+C:\Users\Husey\source\repos\MainForm\MainForm\bin\Debug\Presentation Mixer.exe
+C:\Users\Husey\source\repos\MainForm\MainForm\bin\Debug\Presentation Mixer.pdb
+C:\Users\Husey\source\repos\MainForm\MainForm\obj\Debug\Presentation Mixer.exe
+C:\Users\Husey\source\repos\MainForm\MainForm\obj\Debug\Presentation Mixer.pdb
+C:\Users\Husey\source\repos\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
